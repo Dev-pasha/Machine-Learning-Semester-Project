@@ -217,7 +217,7 @@ def predFunction(algorithm):
 root = tk.Tk()
 #Title
 
-root.title("Diabetes Predictor")
+root.title("Diabetic Diagnosis Predictor")
 root.configure(background = "#ffa51d")
 canvas = tk.Canvas(root, width=500, height=300 )
 canvas.grid()
